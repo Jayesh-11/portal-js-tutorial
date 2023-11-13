@@ -1,5 +1,5 @@
 ---
-title: 'City Data'
+title: 'City-data-flat-ui-table'
 author: 'Jayesh'
 description: 'A dataset showing city data'
 modified: '2023-11-13'

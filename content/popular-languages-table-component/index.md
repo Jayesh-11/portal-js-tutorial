@@ -1,5 +1,5 @@
 ---
-title: 'Popular languages'
+title: 'Popular languages Table Component'
 author: 'Jayesh'
 description: 'A dataset showing popular languages used by developers, btw this data is fake'
 modified: '2023-11-13'
