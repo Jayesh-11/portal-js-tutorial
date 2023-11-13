@@ -1,0 +1,31 @@
+id, language, paradigm, release_year, developer_count, primary_use
+1, Python, Multi-paradigm, 1991, 7 million, Web development, data science, artificial intelligence
+2, JavaScript, Multi-paradigm, 1995, 13 million, Web development
+3, Java, Object-oriented, 1995, 8.2 million, Enterprise applications, Android development
+4, C++, Multi-paradigm, 1985, 4 million, Systems programming, game development
+5, TypeScript, Multi-paradigm, 2012, 1 million, Web development
+6, C#, Multi-paradigm, 2000, 4.7 million, Windows applications, game development
+7, Swift, Multi-paradigm, 2014, 600,000, iOS/macOS app development
+8, PHP, Imperative, 1995, 5 million, Server-side scripting, web development
+9, Ruby, Object-oriented, 1995, 1 million, Web development, scripting
+10, Go, Concurrent, 2009, 600,000, Systems programming, cloud services
+11, Rust, Systems programming, 2010, 100,000, Systems programming, game development
+12, Kotlin, Object-oriented, 2011, 300,000, Android app development
+13, MATLAB, Multi-paradigm, 1984, 3 million, Numerical computing, data analysis
+14, R, Multi-paradigm, 1993, 2 million, Statistical computing, data analysis
+15, Swift, Multi-paradigm, 2014, 600,000, iOS/macOS app development
+16, Dart, Object-oriented, 2011, 100,000, Web development (Flutter)
+17, Scala, Multi-paradigm, 2003, 400,000, Web development, data analysis
+18, Shell, Imperative, N/A, N/A, Scripting, automation
+19, Lua, Imperative, 1993, 50,000, Game development, embedded systems
+20, Groovy, Multi-paradigm, 2003, 100,000, Scripting, Java integration
+21, HTML/CSS, Markup, N/A, N/A, Web development
+22, Assembly, Low-level, N/A, N/A, Systems programming
+23, SQL, Declarative, 1974, N/A, Database management
+24, Objective-C, Object-oriented, 1984, 100,000, iOS/macOS app development
+25, C, Procedural, 1972, 8 million, Systems programming
+26, Julia, Multi-paradigm, 2012, 10,000, Scientific computing, machine learning
+27, Cobol, Procedural, 1959, N/A, Business applications
+28, VHDL, Hardware description, 1985, N/A, Hardware design
+29, Fortran, Procedural, 1957, N/A, Scientific computing
+30, Shell, Imperative, N/A, N/A, Scripting, automation
